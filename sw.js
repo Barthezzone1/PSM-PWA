@@ -1,4 +1,4 @@
-var cacheName = 'hello-pwa';
+var cacheName = 'PSM';
 var filesToCache = [
   '/'
 ];
